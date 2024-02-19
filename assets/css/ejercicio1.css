@@ -1,0 +1,11 @@
+.errorNombre, .errorAsunto, .errorMensaje{
+    color:red;
+    font-style: italic;
+} 
+
+
+.resultado {
+    color:green;
+    font-style: italic;
+}
+ 
